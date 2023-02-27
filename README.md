@@ -1,4 +1,6 @@
 # Gimbal-Lock
+![WhatsApp Image 2023-02-27 at 19 43 42](https://user-images.githubusercontent.com/94914472/221702101-b517d194-f7ff-4847-bf86-385a81d8c5e6.jpg)
+
 Beetleweight Robot designed for BBB Beetle Brawl 2023
 
 Fights in competition : https://youtu.be/1QfRrKpV6Xg
@@ -13,7 +15,7 @@ Wiki page : https://ultimate-robot-archive.fandom.com/wiki/Gimbal_Lock
 <tr>
 <td>
 
-![WhatsApp Image 2023-02-27 at 19 43 42](https://user-images.githubusercontent.com/94914472/221702101-b517d194-f7ff-4847-bf86-385a81d8c5e6.jpg)
+
 
 ![WhatsApp Image 2023-02-27 at 20 16 16](https://user-images.githubusercontent.com/94914472/221701390-dde1362d-d27c-450b-b30f-8716c7743182.jpg)
 ![WhatsApp Image 2023-02-27 at 20 16 17](https://user-images.githubusercontent.com/94914472/221701393-45b70901-006b-45fd-bda7-089a07c5d996.jpg)
